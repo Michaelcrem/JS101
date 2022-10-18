@@ -1,2 +1,2 @@
-# JS101
+# Lanch School JS101
 Launch School intro course
